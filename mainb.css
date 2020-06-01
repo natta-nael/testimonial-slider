@@ -54,7 +54,7 @@ body {
     justify-content: space-between;
     align-items: center;
     position: absolute;
-    bottom: -35px;
+    bottom: -20px;
     left: 70px;
     box-shadow: 10px 10px 49px 1px rgba(0, 0, 0, .4);
 }
@@ -124,7 +124,7 @@ body {
     display: flex;
 }
 
-.quote_name span h4 {
+.quote_name h4 span {
     font-weight: 500;
     display: inline-block;
     opacity: 50%;
@@ -157,7 +157,7 @@ body {
         margin-top: 25px;
     }
 
-    .quote_name span h4 {
+    .quote_name h4 span {
         margin-left: 15px;
     }
 }
@@ -185,7 +185,7 @@ body {
         margin-top: 20px;
     }
 
-    .quote_name span h4 {
+    .quote_name h4 span {
         margin-left: 15px;
     }
 }
@@ -256,7 +256,7 @@ body {
         margin-top: 15px;
     }
 
-    .quote_name span h4 {
+    .quote_name h4 span {
         font-weight: 500;
         display: inline-block;
         opacity: 50%;
